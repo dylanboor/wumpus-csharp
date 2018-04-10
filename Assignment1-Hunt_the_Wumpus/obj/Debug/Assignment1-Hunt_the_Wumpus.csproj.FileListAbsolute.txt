@@ -1,0 +1,6 @@
+c:\users\dylan\documents\visual studio 2015\Projects\Assignment1-Hunt_the_Wumpus\Assignment1-Hunt_the_Wumpus\bin\Debug\Assignment1-Hunt_the_Wumpus.exe.config
+c:\users\dylan\documents\visual studio 2015\Projects\Assignment1-Hunt_the_Wumpus\Assignment1-Hunt_the_Wumpus\obj\Debug\Assignment1-Hunt_the_Wumpus.csprojResolveAssemblyReference.cache
+c:\users\dylan\documents\visual studio 2015\Projects\Assignment1-Hunt_the_Wumpus\Assignment1-Hunt_the_Wumpus\bin\Debug\Assignment1-Hunt_the_Wumpus.exe
+c:\users\dylan\documents\visual studio 2015\Projects\Assignment1-Hunt_the_Wumpus\Assignment1-Hunt_the_Wumpus\bin\Debug\Assignment1-Hunt_the_Wumpus.pdb
+c:\users\dylan\documents\visual studio 2015\Projects\Assignment1-Hunt_the_Wumpus\Assignment1-Hunt_the_Wumpus\obj\Debug\Assignment1-Hunt_the_Wumpus.exe
+c:\users\dylan\documents\visual studio 2015\Projects\Assignment1-Hunt_the_Wumpus\Assignment1-Hunt_the_Wumpus\obj\Debug\Assignment1-Hunt_the_Wumpus.pdb
